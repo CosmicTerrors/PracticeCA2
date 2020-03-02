@@ -1,0 +1,11 @@
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\bin\Debug\netcoreapp2.2\PracticeCA2.deps.json
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\bin\Debug\netcoreapp2.2\PracticeCA2.runtimeconfig.json
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\bin\Debug\netcoreapp2.2\PracticeCA2.runtimeconfig.dev.json
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\bin\Debug\netcoreapp2.2\PracticeCA2.dll
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\bin\Debug\netcoreapp2.2\PracticeCA2.pdb
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\obj\Debug\netcoreapp2.2\PracticeCA2.csprojAssemblyReference.cache
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\obj\Debug\netcoreapp2.2\PracticeCA2.csproj.CoreCompileInputs.cache
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\obj\Debug\netcoreapp2.2\PracticeCA2.AssemblyInfoInputs.cache
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\obj\Debug\netcoreapp2.2\PracticeCA2.AssemblyInfo.cs
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\obj\Debug\netcoreapp2.2\PracticeCA2.dll
+H:\Programming2\Week6\PracticeCA2\PracticeCA2\PracticeCA2\obj\Debug\netcoreapp2.2\PracticeCA2.pdb
